@@ -1,0 +1,35 @@
+{
+  "baseUrl": "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api",
+  "liveaccessUrl": "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/liveaccess",
+  "getnumUrl": "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/getnum",
+  "otpUrl": "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/success-otp",
+  "consoleUrl": "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/console",
+  "defaultMauthApiKey": "",
+  "appEnabled": true,
+  "appNotice": "Service Active & Online",
+  "adminPassword": "admin",
+  "fallbackRanges": [
+    "22467",
+    "26134",
+    "22809",
+    "23480",
+    "6281",
+    "1202",
+    "1204",
+    "1205",
+    "1206",
+    "1207"
+  ],
+  "apiKeys": [
+    {
+      "id": "key_mw7bw7bayq7k",
+      "key": "RC-FFKH95-PQR744-H4GAFT",
+      "label": "Client Mukter",
+      "createdAt": "2026-11-08T04:24:46.342Z",
+      "expiresAt": "2026-12-08T04:24:46.342Z",
+      "enabled": true,
+      "usageCount": 1,
+      "lastUsed": "2026-11-08T04:24:46.378Z"
+    }
+  ]
+}

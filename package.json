@@ -1,0 +1,14 @@
+{
+  "name": "rc-tools-vercel-server",
+  "version": "1.0.0",
+  "description": "Realtime Control Server and Admin Panel for RC Tools",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "node api/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
